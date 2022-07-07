@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+table {
+  border-collapse: collapse;
+  border: none;
+  margin-top: 16px;
+}
+
+td {
+  width: 2vw;
+  height: 2vw;
+  border: none;
+  text-align: center;
+  vertical-align: center;
+  font-size: 20px;
+}
+td.bg2__18, td.bg3__18, td.bg3__19, td.bg4__18, td.bg4__19, td.bg5__17, td.bg5__18, td.bg5__19, td.bg5__20, td.bg6__17, td.bg6__18, td.bg6__19, td.bg6__20, td.bg7__17, td.bg7__20 {
+  background-color: #E74E25;
+}
+td.bg8__18, td.bg7__18, td.bg7__19, td.bg6__19, td.bg11__7, td.bg11__8, td.bg12__7, td.bg12__8, td.bg12__9, td.bg13__8, td.bg13__9, td.bg13__10, td.bg14__9, td.bg14__10 {
+  background-color: #FFEB3C;
+}
+td.bg2__5, td.bg2__6, td.bg2__7, td.bg2__8, td.bg3__4, td.bg3__5, td.bg3__6, td.bg3__7, td.bg3__8, td.bg3__9, td.bg4__4, td.bg4__5, td.bg4__6, td.bg4__7, td.bg4__8, td.bg4__9, td.bg5__3, td.bg5__4, td.bg5__5, td.bg5__8, td.bg5__9, td.bg5__10, td.bg6__2, td.bg6__3, td.bg6__4, td.bg6__5, td.bg6__8, td.bg6__9, td.bg6__10, td.bg7__2, td.bg7__3, td.bg7__4, td.bg7__5, td.bg7__8, td.bg7__9, td.bg7__10, td.bg7__11, td.bg8__3, td.bg8__4, td.bg8__5, td.bg8__6, td.bg8__7, td.bg8__8, td.bg8__9, td.bg8__10, td.bg8__11, td.bg9__5, td.bg9__6, td.bg9__7, td.bg9__8, td.bg9__9, td.bg9__10, td.bg9__11, td.bg9__12, td.bg10__8, td.bg10__9, td.bg10__11, td.bg10__12, td.bg10__13, td.bg10__17, td.bg11__17, td.bg12__17, td.bg9__18, td.bg10__18, td.bg11__10, td.bg11__11, td.bg11__12, td.bg11__13, td.bg11__16, td.bg12__16, td.bg13__16, td.bg12__12, td.bg12__13, td.bg12__14, td.bg13__11, td.bg13__12, td.bg13__13, td.bg13__14, td.bg14__11, td.bg14__12, td.bg14__13, td.bg15__12, td.bg16__12 {
+  background-color: #EF941D;
+}
+td.bg1__5, td.bg1__6, td.bg1__7, td.bg1__8, td.bg3__10, td.bg4__10, td.bg5__11, td.bg6__11, td.bg7__12, td.bg8__12, td.bg10__14, td.bg11__14, td.bg10__5, td.bg10__6, td.bg10__7, td.bg11__6, td.bg12__15, td.bg13__15, td.bg14__15, td.bg3__3, td.bg4__3, td.bg6__1, td.bg7__1, td.bg9__3, td.bg9__4, td.bg12__6, td.bg9__13, td.bg2__9, td.bg2__4, td.bg5__2, td.bg8__2, td.bg13__5, td.bg13__7, td.bg14__6, td.bg14__7, td.bg14__8, td.bg15__9, td.bg15__10, td.bg15__11, td.bg16__10, td.bg17__11, td.bg17__12, td.bg17__13, td.bg17__14, td.bg16__14, td.bg15__13, td.bg15__14, td.bg14__14, td.bg11__15, td.bg10__16, td.bg9__17, td.bg8__17, td.bg7__16, td.bg6__16, td.bg5__16, td.bg4__17, td.bg3__17, td.bg2__17, td.bg1__18, td.bg2__19, td.bg3__20, td.bg4__20, td.bg5__21, td.bg6__21, td.bg7__21, td.bg8__20, td.bg8__19, td.bg9__19, td.bg10__19, td.bg11__18, td.bg12__18, td.bg13__17, td.bg14__16, td.bg5__7, td.bg6__7, td.bg7__7, td.bg7__6, td.bg6__6, td.bg10__10, td.bg11__9, td.bg12__10, td.bg12__11 {
+  background-color: #000;
+}/*# sourceMappingURL=styles.css.map */
