@@ -6,7 +6,7 @@
  - Proyecto creado para la diversión. <es/>
 
 
-![Logo](img/Captura%20de%20tela%20de%202022-07-07%2018-33-02.png)
+![Logo]([img/Captura%20de%20tela%20de%202022-07-07%2018-33-02.png](https://raw.githubusercontent.com/Msamuelsons/pokepixel/master/img/charmander.png))
 
 
 ## Tecnologias(technologies)
